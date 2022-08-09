@@ -1,8 +1,8 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# Project Name
+#Hello Rails app
 
-> One paragraph statement about the project.
+> Rails 'Hello World!' project!.
 
 ![screenshot](./app_screenshot.png)
 
@@ -10,9 +10,7 @@ Additional description about the project and its features.
 
 ## Built With
 
-- Major languages
-- Frameworks
-- Technologies used
+- Ruby on Rail
 
 ## Live Demo
 
